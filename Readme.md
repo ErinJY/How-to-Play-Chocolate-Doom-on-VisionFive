@@ -2,7 +2,7 @@
 
 # **Install Instructions**
 
-Make sure you have installed Node.js into the Fedora system. For instructions, refer to [Wiki](https://wiki.rvspace.org/en/Product/VisionFive/ApplicationNotes/V8_Demo).
+Make sure you have installed Node.js into the VisionFive Fedora system. For instructions, refer to [Wiki](https://wiki.rvspace.org/en/Product/VisionFive/ApplicationNotes/V8_Demo).
 
 The following are the command lines for using the `visionfive_chocolate-doom.tar.gz`  package:
 
@@ -36,20 +36,20 @@ The following are the command lines for using the `visionfive_chocolate-doom.tar
 
 
 ENTER – Menu confirmation
-A – Left
-D – Right
-W – Move forward
-D – Move backward
-Shift+Direction - Run
-Space bar – Use (open)
-Mouse – Turn Left/Right
-Mouse Left – Shoot
+- A – Left
+- D – Right
+- W – Move forward
+- D – Move backward
+- Shift+Direction - Run
+- Space bar – Use (open)
+- Mouse – Turn Left/Right
+- Mouse Left – Shoot
 
 Weapons
-1 – Bare Hands
-2 - Weapon1
-3 - Weapon2
-4 - Weapon3
-5 - Weapon4
-6 - Weapon5
-7 - Weapon6
+- 1 – Bare Hands
+- 2 - Weapon1
+- 3 - Weapon2
+- 4 - Weapon3
+- 5 - Weapon4
+- 6 - Weapon5
+- 7 - Weapon6
